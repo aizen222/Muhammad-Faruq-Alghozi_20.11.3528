@@ -1,0 +1,10 @@
+E:\20.11.3528\Aplikasi Input Data Mahasiswa\Aplikasi Input Data Mahasiswa\bin\Debug\Aplikasi Input Data Mahasiswa.exe.config
+E:\20.11.3528\Aplikasi Input Data Mahasiswa\Aplikasi Input Data Mahasiswa\bin\Debug\Aplikasi Input Data Mahasiswa.exe
+E:\20.11.3528\Aplikasi Input Data Mahasiswa\Aplikasi Input Data Mahasiswa\bin\Debug\Aplikasi Input Data Mahasiswa.pdb
+E:\20.11.3528\Aplikasi Input Data Mahasiswa\Aplikasi Input Data Mahasiswa\obj\Debug\Aplikasi Input Data Mahasiswa.csprojAssemblyReference.cache
+E:\20.11.3528\Aplikasi Input Data Mahasiswa\Aplikasi Input Data Mahasiswa\obj\Debug\Aplikasi_Input_Data_Mahasiswa.Properties.Resources.resources
+E:\20.11.3528\Aplikasi Input Data Mahasiswa\Aplikasi Input Data Mahasiswa\obj\Debug\Aplikasi Input Data Mahasiswa.csproj.GenerateResource.cache
+E:\20.11.3528\Aplikasi Input Data Mahasiswa\Aplikasi Input Data Mahasiswa\obj\Debug\Aplikasi Input Data Mahasiswa.csproj.CoreCompileInputs.cache
+E:\20.11.3528\Aplikasi Input Data Mahasiswa\Aplikasi Input Data Mahasiswa\obj\Debug\Aplikasi Input Data Mahasiswa.exe
+E:\20.11.3528\Aplikasi Input Data Mahasiswa\Aplikasi Input Data Mahasiswa\obj\Debug\Aplikasi Input Data Mahasiswa.pdb
+E:\20.11.3528\Aplikasi Input Data Mahasiswa\Aplikasi Input Data Mahasiswa\obj\Debug\Aplikasi_Input_Data_Mahasiswa.Form1.resources
